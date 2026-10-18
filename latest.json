@@ -1,8 +1,8 @@
 {
-  "build": 7,
-  "versionName": "0.3.1",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.1.apk",
-  "sha256": "8cef47d6e0b18030218209e2ed8d3791b382219290f8deda810b99a85825629d",
-  "notes_he": "גרסת בדיקה לעדכון מתוך האפליקציה.",
-  "notes_en": "Test release for the in-app updater."
+  "build": 8,
+  "versionName": "0.3.2",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.2.apk",
+  "sha256": "791ed0bc5994e2bfa0d6ffbacc31596b34201ee5c5a41b92b1d380911b6131a8",
+  "notes_he": "איחוד חבילות כפולות, זיהוי טוב יותר של הודעות דואר ישראל, בדיקת קישורים מקוצרים, ופס התקדמות לכל חבילה.",
+  "notes_en": "Merges duplicate packages, better Israel Post message reading, short-link checks, and a progress bar on every package."
 }

@@ -1,8 +1,8 @@
 {
-  "build": 12,
-  "versionName": "0.3.6",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.6.apk",
-  "sha256": "7038fba8bf5a6f9bc1447faae66849568185820e95d94d8c7d5b508f1f47c00f",
-  "notes_he": "מסך חבילה חדש: כל הפרטים והמספרים למעלה, ההודעות מוצגות במלואן עם תאריך, שעה ושולח, וכפתור לפתיחת השיחה המקורית.",
-  "notes_en": "New package screen: all details and numbers at the top, full messages with date, time and sender, and a button to open the original conversation."
+  "build": 13,
+  "versionName": "0.3.7",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.7.apk",
+  "sha256": "2e921de5f101fec623e877d689a2ef0eb9a67c62faa7eb339c91c61461b871df",
+  "notes_he": "קריאה טובה יותר של אתרי שליחויות: 'לא ניתן לעדכן' מובן כמשימה שנסגרה, ודפים אחרים מציגים את מה שכתוב בהם.",
+  "notes_en": "Better courier-site reading: 'can no longer be updated' closes the task, and other pages show what they say."
 }

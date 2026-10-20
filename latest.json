@@ -1,8 +1,8 @@
 {
-  "build": 11,
-  "versionName": "0.3.5",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.5.apk",
-  "sha256": "6d083d96ab12fd584e5b532459916c00350f889180951b375c5b751a79749c24",
-  "notes_he": "הוספת חבילה מצילום מסך (למשל 17TRACK) – גם דרך 'שיתוף'. השמות שלך בהודעות נחשבים שלך. זיהוי מספרי מעקב בפורמט LP…CN.",
-  "notes_en": "Add a package from a screenshot (e.g. 17TRACK) – also via Share. Your names in messages count as you. LP…CN tracking numbers."
+  "build": 12,
+  "versionName": "0.3.6",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.6.apk",
+  "sha256": "7038fba8bf5a6f9bc1447faae66849568185820e95d94d8c7d5b508f1f47c00f",
+  "notes_he": "מסך חבילה חדש: כל הפרטים והמספרים למעלה, ההודעות מוצגות במלואן עם תאריך, שעה ושולח, וכפתור לפתיחת השיחה המקורית.",
+  "notes_en": "New package screen: all details and numbers at the top, full messages with date, time and sender, and a button to open the original conversation."
 }

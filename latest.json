@@ -1,8 +1,8 @@
 {
-  "build": 9,
-  "versionName": "0.3.3",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.3.apk",
-  "sha256": "fcd9fd3ca7a9bb11a4904b1f58b3f29a65d55e5d1c21484069acbaae2a6cae67",
-  "notes_he": "תצוגה ברורה יותר: משפט סטטוס אחד לכל חבילה, כפתור 'סמן שהתקבל' ברור, חבילות שהגיעו מקובצות בתחתית, וקריאה טובה יותר של אתרי שליחויות איטיים.",
-  "notes_en": "Clearer display: one status sentence per package, a clear 'mark as received' button, arrived packages grouped at the bottom, better reading of slow courier sites."
+  "build": 10,
+  "versionName": "0.3.4",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.4.apk",
+  "sha256": "db25642e2461203c9cfc1bfba84affea8e5dd78c98206bf1cc0db224964f835e",
+  "notes_he": "זיהוי חברת השליחויות YDM (משלוחי Temu), הודעות 'נמסר' בלי מספר, 'השליח בדרך אליך היום', ואיחוד חבילות כפולות לפי מספר שליחות.",
+  "notes_en": "Recognises YDM (Temu deliveries), 'delivered' messages without a number, 'courier on the way today', and merges duplicates by shipment number."
 }

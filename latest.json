@@ -1,8 +1,8 @@
 {
-  "build": 13,
-  "versionName": "0.3.7",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.7.apk",
-  "sha256": "2e921de5f101fec623e877d689a2ef0eb9a67c62faa7eb339c91c61461b871df",
-  "notes_he": "קריאה טובה יותר של אתרי שליחויות: 'לא ניתן לעדכן' מובן כמשימה שנסגרה, ודפים אחרים מציגים את מה שכתוב בהם.",
-  "notes_en": "Better courier-site reading: 'can no longer be updated' closes the task, and other pages show what they say."
+  "build": 14,
+  "versionName": "0.3.8",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.8.apk",
+  "sha256": "3de6dc26b0e8b9151555572630d8c4a9dda9ff2350cea71be0b96f4820402923",
+  "notes_he": "תיקון: הודעת 'סומן כהגיע · ביטול' נעלמת מעצמה אחרי כמה שניות. קריאה טובה יותר של אתרי שליחויות.",
+  "notes_en": "Fix: the 'marked as received · undo' bar now disappears by itself. Better courier-site reading."
 }

@@ -1,8 +1,8 @@
 {
-  "build": 15,
-  "versionName": "0.3.9",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.9.apk",
-  "sha256": "1222fcfce8d725eb611b82c221c976aaba41ccd3ae05ac4b6667816076e5f13e",
-  "notes_he": "סטטוס חדש 'בארץ' (הגיע לישראל / בתהליך מיון), ובדיקת אתר השליח מיד כשמגיעה הודעה חדשה.",
-  "notes_en": "New 'In Israel' status (arrived / being sorted), and the courier site is checked as soon as a new message arrives."
+  "build": 16,
+  "versionName": "0.3.10",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.10.apk",
+  "sha256": "5511deba7b10360f8e1e70ded5ba3305bba6cff9b2988ea9e09d7fe29c8fd610",
+  "notes_he": "החבילות ממוינות לפי העדכון האחרון – החבילה שקיבלה הודעה אחרונה מופיעה ראשונה.",
+  "notes_en": "Packages are sorted by latest update – the one with the newest message comes first."
 }

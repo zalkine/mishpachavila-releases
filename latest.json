@@ -1,8 +1,8 @@
 {
-  "build": 14,
-  "versionName": "0.3.8",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.8.apk",
-  "sha256": "3de6dc26b0e8b9151555572630d8c4a9dda9ff2350cea71be0b96f4820402923",
-  "notes_he": "תיקון: הודעת 'סומן כהגיע · ביטול' נעלמת מעצמה אחרי כמה שניות. קריאה טובה יותר של אתרי שליחויות.",
-  "notes_en": "Fix: the 'marked as received · undo' bar now disappears by itself. Better courier-site reading."
+  "build": 15,
+  "versionName": "0.3.9",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.9.apk",
+  "sha256": "1222fcfce8d725eb611b82c221c976aaba41ccd3ae05ac4b6667816076e5f13e",
+  "notes_he": "סטטוס חדש 'בארץ' (הגיע לישראל / בתהליך מיון), ובדיקת אתר השליח מיד כשמגיעה הודעה חדשה.",
+  "notes_en": "New 'In Israel' status (arrived / being sorted), and the courier site is checked as soon as a new message arrives."
 }

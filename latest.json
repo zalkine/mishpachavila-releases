@@ -1,8 +1,8 @@
 {
-  "build": 17,
-  "versionName": "0.4.0",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.4.0.apk",
-  "sha256": "e3f8b4bf97b3647cf2970a7fc376f456eec729f6e91baf3f4db8eb19af7ca889",
-  "notes_he": "צילומי מסך: אפשר להוסיף צילום מסך לכל חבילה או מהמסך הראשי – האפליקציה קוראת עברית ואנגלית, מעדכנת את החבילה ושומרת את התמונה. נקודת האיסוף מוצגת בכרטיס.",
-  "notes_en": "Screenshots: add one to any package or from the main screen – Hebrew and English are read on the phone, the package is updated and the image kept. Pickup point shown on cards."
+  "build": 18,
+  "versionName": "0.4.1",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.4.1.apk",
+  "sha256": "657940046d174caf5dab7b2a65d8e57795c7382fbfbcdc2151692f8f1c37e81a",
+  "notes_he": "תיקון: הודעות 'ממתין לך' מזוהות כ'מחכה לאיסוף' עם שם המקום, הכתובת וקוד הדואר (למשל ג 1491).",
+  "notes_en": "Fix: 'waiting for you' messages now show 'waiting for pickup' with the place, address and post-office code."
 }

@@ -1,8 +1,8 @@
 {
-  "build": 16,
-  "versionName": "0.3.10",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.3.10.apk",
-  "sha256": "5511deba7b10360f8e1e70ded5ba3305bba6cff9b2988ea9e09d7fe29c8fd610",
-  "notes_he": "החבילות ממוינות לפי העדכון האחרון – החבילה שקיבלה הודעה אחרונה מופיעה ראשונה.",
-  "notes_en": "Packages are sorted by latest update – the one with the newest message comes first."
+  "build": 17,
+  "versionName": "0.4.0",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.4.0.apk",
+  "sha256": "e3f8b4bf97b3647cf2970a7fc376f456eec729f6e91baf3f4db8eb19af7ca889",
+  "notes_he": "צילומי מסך: אפשר להוסיף צילום מסך לכל חבילה או מהמסך הראשי – האפליקציה קוראת עברית ואנגלית, מעדכנת את החבילה ושומרת את התמונה. נקודת האיסוף מוצגת בכרטיס.",
+  "notes_en": "Screenshots: add one to any package or from the main screen – Hebrew and English are read on the phone, the package is updated and the image kept. Pickup point shown on cards."
 }

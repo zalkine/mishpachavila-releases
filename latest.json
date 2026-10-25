@@ -1,8 +1,8 @@
 {
-  "build": 18,
-  "versionName": "0.4.1",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.4.1.apk",
-  "sha256": "657940046d174caf5dab7b2a65d8e57795c7382fbfbcdc2151692f8f1c37e81a",
-  "notes_he": "תיקון: הודעות 'ממתין לך' מזוהות כ'מחכה לאיסוף' עם שם המקום, הכתובת וקוד הדואר (למשל ג 1491).",
-  "notes_en": "Fix: 'waiting for you' messages now show 'waiting for pickup' with the place, address and post-office code."
+  "build": 19,
+  "versionName": "0.4.2",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.4.2.apk",
+  "sha256": "dc2cbc64e9d9c5928f11f5f7b4f8691680fddf21803e11e3ac441b677c93ead1",
+  "notes_he": "תיקון: הודעת צ'יטה 'ולא להגיע לנקודת המסירה' כבר לא נחשבת 'מחכה לאיסוף'. נקודת האיסוף מסומנת בבירור בכרטיס, ונקראת גם מאתר צ'יטה.",
+  "notes_en": "Fix: Cheetah's 'do not come to the pickup point yet' no longer counts as waiting for pickup. Pickup point clearly labelled on cards and read from Cheetah's page."
 }

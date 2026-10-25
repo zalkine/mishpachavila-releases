@@ -1,8 +1,8 @@
 {
-  "build": 19,
-  "versionName": "0.4.2",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.4.2.apk",
-  "sha256": "dc2cbc64e9d9c5928f11f5f7b4f8691680fddf21803e11e3ac441b677c93ead1",
-  "notes_he": "תיקון: הודעת צ'יטה 'ולא להגיע לנקודת המסירה' כבר לא נחשבת 'מחכה לאיסוף'. נקודת האיסוף מסומנת בבירור בכרטיס, ונקראת גם מאתר צ'יטה.",
-  "notes_en": "Fix: Cheetah's 'do not come to the pickup point yet' no longer counts as waiting for pickup. Pickup point clearly labelled on cards and read from Cheetah's page."
+  "build": 20,
+  "versionName": "0.4.3",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.4.3.apk",
+  "sha256": "78122e46849e8fb4854162fc557aa4e02ad86a1db87a487637d4d44011999249",
+  "notes_he": "נקודת האיסוף שבחרת מוצגת נכון (במקום טקסט לא ברור), כולל מצילום מסך. נוסף כפתור 'כבר בחרתי' ליד 'אפשר לבחור נקודת איסוף אחרת'.",
+  "notes_en": "The chosen pickup point is shown correctly (instead of unclear text), including from screenshots. Added an 'Already chose' button next to the optional point change."
 }

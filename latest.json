@@ -1,8 +1,8 @@
 {
-  "build": 20,
-  "versionName": "0.4.3",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.4.3.apk",
-  "sha256": "78122e46849e8fb4854162fc557aa4e02ad86a1db87a487637d4d44011999249",
-  "notes_he": "נקודת האיסוף שבחרת מוצגת נכון (במקום טקסט לא ברור), כולל מצילום מסך. נוסף כפתור 'כבר בחרתי' ליד 'אפשר לבחור נקודת איסוף אחרת'.",
-  "notes_en": "The chosen pickup point is shown correctly (instead of unclear text), including from screenshots. Added an 'Already chose' button next to the optional point change."
+  "build": 21,
+  "versionName": "0.4.4",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.4.4.apk",
+  "sha256": "ce00a761ac7b68069656374b30f1d2288227dc3286fda13ed5b15e7c8a3e2064",
+  "notes_he": "הודעת דואר ישראל 'הועבר למחלק הדואר' מעדכנת ל'יצא לחלוקה'. כשלא ניתן לקרוא את הסטטוס מצילום מסך, האפליקציה שואלת מה מופיע בו.",
+  "notes_en": "Israel Post 'handed to the mail carrier' now shows as out for delivery. When a screenshot's status can't be read, the app asks what it shows."
 }

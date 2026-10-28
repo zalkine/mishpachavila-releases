@@ -1,8 +1,8 @@
 {
-  "build": 21,
-  "versionName": "0.4.4",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.4.4.apk",
-  "sha256": "ce00a761ac7b68069656374b30f1d2288227dc3286fda13ed5b15e7c8a3e2064",
-  "notes_he": "הודעת דואר ישראל 'הועבר למחלק הדואר' מעדכנת ל'יצא לחלוקה'. כשלא ניתן לקרוא את הסטטוס מצילום מסך, האפליקציה שואלת מה מופיע בו.",
-  "notes_en": "Israel Post 'handed to the mail carrier' now shows as out for delivery. When a screenshot's status can't be read, the app asks what it shows."
+  "build": 22,
+  "versionName": "0.4.5",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.4.5.apk",
+  "sha256": "ace5197292f00ef08316c4340d84ac5682e9b02d1e94fb963bf655afa89404b2",
+  "notes_he": "חבילות כפולות מאוחדות: מספר שנקרא מצילום מסך עם O במקום 0 מזוהה כאותה חבילה. קריאת אתר השליח ממתינה לתוכן הדף (לא רק לתפריט הנגישות).",
+  "notes_en": "Duplicate packages merged: a number read from a screenshot with O instead of 0 is recognized as the same package. Courier pages are read once their content has loaded (not just the accessibility menu)."
 }

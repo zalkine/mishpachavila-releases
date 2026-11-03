@@ -1,8 +1,8 @@
 {
-  "build": 24,
-  "versionName": "0.5.0",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.5.0.apk",
-  "sha256": "0e33d93ea3338dc8376a495ebfb599d2eb91fa3e3609d76c28c57852d7b71e1a",
-  "notes_he": "מסך חדש 'הודעות שזוהו': לחיצה על ההתראה מראה את ההודעה שזוהתה ומה עודכן בעקבותיה. עדכון ברור לחבילה מתבצע אוטומטית; הודעה לא ברורה ממתינה להחלטה שלך (שייך לחבילה / חבילה חדשה / לא קשור למשלוח). בהגדרות מוצג אם המייל מחובר.",
-  "notes_en": "New 'Noticed messages' screen: tapping the alert shows the message and what it updated. Clear updates are applied automatically; unclear messages wait for your decision (attach to a package / new package / not a delivery). Settings show whether e-mail is connected."
+  "build": 25,
+  "versionName": "0.5.1",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.5.1.apk",
+  "sha256": "5cfb5cfd109996587c5a790c135d200b8e457519a50166dd6c21137f80e6fc94",
+  "notes_he": "בכרטיס לא מוצג יותר טקסט גולמי מצילום מסך (רק 'נוסף צילום מסך'). מספרי הזמנה ומעקב שמופיעים זה לצד זה בצילום מסך משויכים נכון.",
+  "notes_en": "The card no longer shows raw screenshot text (just 'screenshot added'). Order and tracking numbers shown side by side in a screenshot go under the right labels."
 }

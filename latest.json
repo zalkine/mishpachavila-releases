@@ -1,8 +1,8 @@
 {
-  "build": 23,
-  "versionName": "0.4.6",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.4.6.apk",
-  "sha256": "bde6a4136ba0b9fb62587279e0ea80cec8c31c815730305e47b8a1992ab2d565",
-  "notes_he": "ההתראה מראה מאיזו אפליקציה ואיזו הודעה זוהתה, ואחרי הבדיקה מוצג אם היה בה מידע חדש. התראות רק על שינוי אמיתי, ולחיצה עליהן פותחת את החבילה. מוצג תאריך הגעה צפוי ('היה צפוי עד…' כשעבר) והודעה חדשה מסומנת על הכרטיס.",
-  "notes_en": "Notifications show which app and message were noticed, and after checking the app says whether it had anything new. Alerts only for real changes; tapping opens the package. Expected arrival date shown (overdue highlighted) and the newest message on the card."
+  "build": 24,
+  "versionName": "0.5.0",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.5.0.apk",
+  "sha256": "0e33d93ea3338dc8376a495ebfb599d2eb91fa3e3609d76c28c57852d7b71e1a",
+  "notes_he": "מסך חדש 'הודעות שזוהו': לחיצה על ההתראה מראה את ההודעה שזוהתה ומה עודכן בעקבותיה. עדכון ברור לחבילה מתבצע אוטומטית; הודעה לא ברורה ממתינה להחלטה שלך (שייך לחבילה / חבילה חדשה / לא קשור למשלוח). בהגדרות מוצג אם המייל מחובר.",
+  "notes_en": "New 'Noticed messages' screen: tapping the alert shows the message and what it updated. Clear updates are applied automatically; unclear messages wait for your decision (attach to a package / new package / not a delivery). Settings show whether e-mail is connected."
 }

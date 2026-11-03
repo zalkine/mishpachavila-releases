@@ -1,8 +1,8 @@
 {
-  "build": 26,
-  "versionName": "0.5.2",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.5.2.apk",
-  "sha256": "e9a7a4f2706438e1725ceb78b9b82a4759ca6a465f0cbcf80e9f576a6ffb2978",
-  "notes_he": "סטטוס שעודכן ידנית נשמר בהיסטוריה של החבילה ולא מתבטל בבדיקות חוזרות.",
-  "notes_en": "A status set by hand is kept in the package history and is no longer undone by re-checks."
+  "build": 27,
+  "versionName": "0.5.3",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.5.3.apk",
+  "sha256": "7b4ef36c6a7aa208a33b9c257fc224752a6e1e44f19d8386930b9300c49732cf",
+  "notes_he": "נקודת איסוף מהודעות איפו ('הגיע ל… פרטים:…') מזוהה, כתובת הבית מהמייל של החנות לא נחשבת עוד לנקודת איסוף, וקישור 'לאישור קבלת המשלוח' אינו 'נדרשת פעולה'.",
+  "notes_en": "Epo pickup messages ('הגיע ל… פרטים:…') are read, a store e-mail's home address is no longer taken as the pickup point, and 'confirm receipt' links are not 'action needed'."
 }

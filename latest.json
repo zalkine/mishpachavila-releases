@@ -1,8 +1,8 @@
 {
-  "build": 22,
-  "versionName": "0.4.5",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.4.5.apk",
-  "sha256": "ace5197292f00ef08316c4340d84ac5682e9b02d1e94fb963bf655afa89404b2",
-  "notes_he": "חבילות כפולות מאוחדות: מספר שנקרא מצילום מסך עם O במקום 0 מזוהה כאותה חבילה. קריאת אתר השליח ממתינה לתוכן הדף (לא רק לתפריט הנגישות).",
-  "notes_en": "Duplicate packages merged: a number read from a screenshot with O instead of 0 is recognized as the same package. Courier pages are read once their content has loaded (not just the accessibility menu)."
+  "build": 23,
+  "versionName": "0.4.6",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.4.6.apk",
+  "sha256": "bde6a4136ba0b9fb62587279e0ea80cec8c31c815730305e47b8a1992ab2d565",
+  "notes_he": "ההתראה מראה מאיזו אפליקציה ואיזו הודעה זוהתה, ואחרי הבדיקה מוצג אם היה בה מידע חדש. התראות רק על שינוי אמיתי, ולחיצה עליהן פותחת את החבילה. מוצג תאריך הגעה צפוי ('היה צפוי עד…' כשעבר) והודעה חדשה מסומנת על הכרטיס.",
+  "notes_en": "Notifications show which app and message were noticed, and after checking the app says whether it had anything new. Alerts only for real changes; tapping opens the package. Expected arrival date shown (overdue highlighted) and the newest message on the card."
 }

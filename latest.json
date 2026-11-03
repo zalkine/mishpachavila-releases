@@ -1,8 +1,8 @@
 {
-  "build": 25,
-  "versionName": "0.5.1",
-  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.5.1.apk",
-  "sha256": "5cfb5cfd109996587c5a790c135d200b8e457519a50166dd6c21137f80e6fc94",
-  "notes_he": "בכרטיס לא מוצג יותר טקסט גולמי מצילום מסך (רק 'נוסף צילום מסך'). מספרי הזמנה ומעקב שמופיעים זה לצד זה בצילום מסך משויכים נכון.",
-  "notes_en": "The card no longer shows raw screenshot text (just 'screenshot added'). Order and tracking numbers shown side by side in a screenshot go under the right labels."
+  "build": 26,
+  "versionName": "0.5.2",
+  "url": "https://raw.githubusercontent.com/zalkine/mishpachavila-releases/main/apk/mishpachavila-0.5.2.apk",
+  "sha256": "e9a7a4f2706438e1725ceb78b9b82a4759ca6a465f0cbcf80e9f576a6ffb2978",
+  "notes_he": "סטטוס שעודכן ידנית נשמר בהיסטוריה של החבילה ולא מתבטל בבדיקות חוזרות.",
+  "notes_en": "A status set by hand is kept in the package history and is no longer undone by re-checks."
 }
